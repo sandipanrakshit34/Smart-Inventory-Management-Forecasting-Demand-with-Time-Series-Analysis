@@ -1,4 +1,4 @@
-# Inventory Management Using Time Series Analysis and Forecasting 📊🕒
+# Smart Inventory Forecasting: Optimizing Spare Parts with Time Series Analysis
 
 Managing the inventory of spare parts in various service centers to meet market demand poses a significant challenge. Despite substantial investments in spare parts inventory, ensuring the availability of these parts remains a problematic area. In this project, I've tackled this issue by employing time series analysis techniques 🧮🔍.
 
