@@ -2,6 +2,8 @@
 
 Managing the inventory of spare parts in various service centers to meet market demand poses a significant challenge. Despite substantial investments in spare parts inventory, ensuring the availability of these parts remains a problematic area. In this project, I've tackled this issue by employing time series analysis techniques 🧮🔍.
 
+<center> <img src = "inventory-management.png" width = 100%>
+
 ## Project Overview 📝
 The goal of this project is to optimize inventory levels 📦 in service centers by accurately forecasting demand for spare parts. This approach not only aims to reduce inventory costs but also to improve spare parts availability, thereby enhancing customer satisfaction 🌟.
 
@@ -39,5 +41,12 @@ To address the forecasting challenge, the following models were deployed:
 The models were evaluated using:
 - **Mean Absolute Error (MAE)**
 - **Mean Squared Error (MSE)**
+
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
 
 This project demonstrates the power of time series analysis and forecasting in solving real-world inventory management challenges. By predicting demand more accurately, service centers can optimize their inventory levels, reduce costs, and ensure the availability of spare parts, ultimately leading to greater customer satisfaction.
